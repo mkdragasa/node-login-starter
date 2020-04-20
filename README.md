@@ -6,7 +6,7 @@ Name: Ragasa, Michaela Katrina D. Ragasa
 <img src ="screenshots/RegistrationError.png">
 <img src ="screenshots/UserExists.png">
 <img src ="screenshots/RegisterSuccess.png">
-
+![alt text](screens/reg1.png)
 
 ## LOGIN
 <img src ="screenshots/LoginError.png">
