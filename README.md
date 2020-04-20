@@ -3,17 +3,13 @@
 Name: Ragasa, Michaela Katrina D. Ragasa
 
 ## REGISTRATION
+<img src ="screenshots/RegistrationError.png">
+<img src ="screenshots/UserExists.png">
+<img src ="screenshots/RegisterSuccess.png">
 
-![Registration error (FAILED form validation)](screenshots/Registration Error.png)
-
-![Registration error (user exists, login page with error message)](screenshots/User Exists.png)
-
-![Registration success (Login page with success message)](screenshots/Register Success.png)
 
 ## LOGIN
+<img src ="screenshots/LoginError.png">
+<img src ="screenshots/LoginError2.png">
+<img src ="screenshots/LoginSuccess.png">
 
-![Login error (user does not exist, registration page with error message)](screenshots/Login Error.png)
-
-![Login error (FAILED form validation)](screenshots/Login Error(2).png)
-
-![Login success (Home page with name displayed)](screenshots/Login Success.png)
